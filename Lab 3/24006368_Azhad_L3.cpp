@@ -1,5 +1,5 @@
 //Linked List with add, delete and display the elements
-
+//Singly Linked List
 
 #include <iostream>
 #include <string>
